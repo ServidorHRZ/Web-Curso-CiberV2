@@ -1,92 +1,77 @@
 {
-    "usuarios": [
-        {
-            "usuario": "Andres",
-            "contrasena": "1724"
-        },
-        {
-            "usuario": "sergio.sabogal0527@gmail.com",
-            "contrasena": "CiberSergio27!"
-        },
-        {
-            "usuario": "frandavhg@gmail.com",
-            "contrasena": "CiberFranHG!"
-        },
-        {
-            "usuario": "salamanca.andres@correounivalle.edu.co",
-            "contrasena": "CiberAndresUV!"
-        },
-        {
-            "usuario": "yoniervasquez98@gmail.com",
-            "contrasena": "CiberYoni98!"
-        },
-        {
-            "usuario": "martinmenacho1305@gmail.com",
-            "contrasena": "CiberMartin05!"
-        },
-        {
-            "usuario": "isasdaniel64@gmail.com",
-            "contrasena": "CiberDaniel64!"
-        },
-        {
-            "usuario": "irwincruz134@gmail.com",
-            "contrasena": "CiberIrwin34!"
-        },
-        {
-            "usuario": "cuentasnetflix005@gmail.com",
-            "contrasena": "CiberNetflix05!"
-        },
-        {
-            "usuario": "jdnarvaez@udenar.edu.co",
-            "contrasena": "CiberNarvaezUD!"
-        },
-        {
-            "usuario": "ajmg2004cbta3@gmail.com",
-            "contrasena": "CiberAJMG04!"
-        },
-        {
-            "usuario": "caicedodiego15@gmail.com",
-            "contrasena": "CiberDiego15!"
-        },
-        {
-            "usuario": "camilahenao75@gmail.com",
-            "contrasena": "CiberCamila75!"
-        },
-        {
-            "usuario": "marquezreyesjesusdavid@gmail.com",
-            "contrasena": "CiberJesusDavid!"
-        },
-        {
-            "usuario": "santiago2018sv@gmail.com",
-            "contrasena": "CiberSanti18!"
-        },
-        {
-            "usuario": "andresfelipe29portillo@gmail.com",
-            "contrasena": "CiberFelipe29!"
-        },
-        {
-            "usuario": "jaquez498@gmail.com",
-            "contrasena": "CiberJaquez98!"
-        },
-        {
-            "usuario": "yglesiasmiguel790@gmail.com",
-            "contrasena": "CiberMiguel90!"
-        },
-        {
-            "usuario": "carh725@hotmail.com",
-            "contrasena": "CiberCesar72!"
-        },
-        {
-            "usuario": "gecudcop@gmail.com", 
-            "contrasena": "CiberAngel99!"
-        },
-        {
-            "usuario": "diegogamboa2tr@gmail.com",
-            "contrasena": "CiberDiego98!"
-        },
-        {
-            "usuario": "ricardoatencialuismiguel@gmail.com",
-            "contrasena": "CiberLuis30!"
-        }
-    ]
+  "usuarios": [
+    {
+      "usuario": "brayan.bernalg@gmail.com",
+      "contrasena": "CiberBrayan30!"
+    },
+    {
+      "usuario": "dylandavidespinoza@gmail.com",
+      "contrasena": "CiberDylan30!"
+    },
+    {
+      "usuario": "diegoreinoso.linux@gmail.com",
+      "contrasena": "CiberDiego30!"
+    },
+    {
+      "usuario": "danycjslopez@gmail.com",
+      "contrasena": "CiberDaniela30!"
+    },
+    {
+      "usuario": "whitman.aguilar@gmail.com",
+      "contrasena": "CiberWhitman30!"
+    },
+    {
+      "usuario": "Jhossuavelasquez44@gmail.com",
+      "contrasena": "CiberJhossua30!"
+    },
+    {
+      "usuario": "isc.ismael.chowell@gmail.com",
+      "contrasena": "CiberIsmael30!"
+    },
+    {
+      "usuario": "serfran2015@gmail.com",
+      "contrasena": "CiberSergio30!"
+    },
+    {
+      "usuario": "sebastian43agudelom92@gmail.com",
+      "contrasena": "CiberSebastian30!"
+    },
+    {
+      "usuario": "yosuarcamilohurtadobenitez@gmail.com",
+      "contrasena": "CiberYosuar30!"
+    },
+    {
+      "usuario": "estebangarcia5712@gmail.com",
+      "contrasena": "CiberDuvan30!"
+    },
+    {
+      "usuario": "sebastianmore64@gmail.com",
+      "contrasena": "CiberJuan30!"
+    },
+    {
+      "usuario": "pablo.brizuela@live.com",
+      "contrasena": "CiberPablo30!"
+    },
+    {
+      "usuario": "martiin.vergara@gmail.com",
+      "contrasena": "CiberMartin30!"
+    },
+    {
+      "usuario": "alejo.vargasp10@gmail.com",
+      "contrasena": "CiberAlejandro30!"
+    },
+    {
+      "usuario": "meyliyui123@gmail.com",
+      "contrasena": "CiberBaltasar30!"
+    },
+    {
+      "usuario": "leandrounivercidad@gmail.com",
+      "contrasena": "CiberLeandro30!"
+    },
+    {
+      "usuario": "Andres",
+      "contrasena": "1724"
+    }
+  ]
 }
+
