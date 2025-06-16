@@ -1,0 +1,84 @@
+{
+    "semanas": [
+        {
+            "numero": 1,
+            "grabaciones": [
+                {
+                    "dia": "Lunes",
+                    "titulo": "Introducción y contexto global",
+                    "link": "https://drive.google.com/file/d/1wC2vFW7VSDbNoxTSYboAm7TRdK7Bh4iZ/preview"
+                },
+                {
+                    "dia": "Miércoles",
+                    "titulo": "Amenazas y vulnerabilidades comunes",
+                    "link": "https://drive.google.com/file/d/1ZQYkHrYeZca73j5HxQYGSNg_T6bdrhkg/preview"
+                },
+                {
+                    "dia": "Viernes",
+                    "titulo": "Psicología Social y el Factor Humano",
+                    "link": "https://drive.google.com/file/d/1MooRYTkn7mcK7M0K9Er9FjFa2BYly7k0/preview"
+                }
+            ]
+        },
+        {
+            "numero": 2,
+            "grabaciones": [
+                {
+                    "dia": "Lunes",
+                    "titulo": "Reconocimiento y escaneo de redes",
+                    "link": "https://drive.google.com/file/d/1Y39ywMfGWXWCCCz3xjxaCVkKHoflnhhg/preview"
+                },
+                {
+                    "dia": "Miércoles",
+                    "titulo": "Ataques a redes y dispositivos",
+                    "link": "https://drive.google.com/file/d/1GNDFNZykwk-E-RNx3pwAXj4XE-ag0aWG/preview"
+                },
+                {
+                    "dia": "Viernes",
+                    "titulo": "Seguridad en redes y firewalls",
+                    "link": "https://drive.google.com/file/d/1xDOIGhtUDVVXF-Qwmt9uPV6d5nGZhG3s/preview"
+                }
+            ]
+        },
+        {
+            "numero": 3,
+            "grabaciones": [
+                {
+                    "dia": "Lunes",
+                    "titulo": "Vulnerabilidades web",
+                    "link": "https://drive.google.com/file/d/13Hl4xMBGKRO58a8saxFWS5Ms3LS5fi3S/preview"
+                },
+                {
+                    "dia": "Miércoles",
+                    "titulo": "Pentesting Web",
+                    "link": "https://drive.google.com/file/d/1PbFEujxGClKrINH9hz0Zki8YlyCICe5U/preview"
+                },
+                {
+                    "dia": "Viernes",
+                    "titulo": "Explotación y escalada de privilegios",
+                    "link": "https://drive.google.com/file/d/1Av5dQr_s7wMmdzPo7Tqvxjs8PPysnDeg/preview"
+                }
+            ]
+        },
+        {
+            "numero": 4,
+            "grabaciones": [
+                {
+                    "dia": "Lunes",
+                    "titulo": "Seguridad en aplicaciones y código seguro",
+                    "link": "https://drive.google.com/file/d/1zCa95Grr41TSRz974NjJtV6E8hMasUWS/preview"
+                },
+                {
+                    "dia": "Miércoles",
+                    "titulo": "OSINT y ataques avanzados de Ingeniería Social",
+                    "link": "https://drive.google.com/file/d/1nJlhDQmae0qr9copNR3TYyAhgkfkJf5w/preview"
+                },
+                {
+                    "dia": "Viernes",
+                    "titulo": "Defensa y Respuesta a Incidentes",
+                    "link": "https://drive.google.com/file/d/1O90KuHf6D_vuVxlwXBg9dqPpZiVlNV_6/preview"
+                }
+            ]
+        }
+    ]
+} 
